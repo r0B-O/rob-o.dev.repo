@@ -1,5 +1,5 @@
 baseurl = "https://r0B-O.github.io"
-title = "A Geek Robot"
+title = "Tech | Blog | Code"
 theme = "ananke"
 languageCode = "en-us"
 paginate = 500 #frontpage pagination
