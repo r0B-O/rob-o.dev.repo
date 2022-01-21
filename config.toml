@@ -1,5 +1,5 @@
-baseurl = "https://r0B-O.github.io"
-title = "Tech | Blog | Code"
+baseurl = "https://rob-o.dev"
+title = "rob-o"
 theme = "ananke"
 languageCode = "en-us"
 paginate = 500 #frontpage pagination
@@ -17,7 +17,7 @@ paginate = 500 #frontpage pagination
   keyword = "Kiran, Chand, rob-o, r0B-O, Python, Cloud, Azure, AWS, Native, Docker, Kubernetes, Go, Golang, Microservice, Serverless"
  
   # Sidebar settings
-  sidebar_about_description = "Cyclist, and, oh yeah, Loves Code | Coding | Coders"
+  sidebar_about_description = "Cyclist, and, oh yeah, Loves Computers and Tech"
   sidebar_avatar = "images/MeAtJackson.jpeg"
   about_me = true
 
@@ -36,8 +36,9 @@ paginate = 500 #frontpage pagination
   [params.social]
   rss            = true
   email          = "root@rob-o.dev"
+  twitter        = "https://twitter.com/kiranbchand"
   linkedin       = "https://www.linkedin.com/in/kiranbchand"
   github         = "https://github.com/r0B-O"
-  medium         = "https://medium.com/@RichYoungkin"
-  stackoverflow  = "https://stackoverflow.com/users/2646870/rich"
-  reddit         = "https://www.reddit.com/user/elevation5280"
+  medium         = "https://medium.com/@rob-o"
+  stackoverflow  = "https://stackoverflow.com/users/8276735/r0b-O"
+  reddit         = "https://www.reddit.com/user/r0B-O"
