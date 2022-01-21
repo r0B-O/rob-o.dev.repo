@@ -11,7 +11,7 @@ paginate = 500 #frontpage pagination
 
 [params]
   header_image = "images/home-bg.jpg"
-  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  featured_image = "images/home-bg.jpg"
   title = "Enlightned"
   slogan = "$ grep -rni \"The how's and why's\" ."
   SEOTitle = "Rich Youngkin Blog"
