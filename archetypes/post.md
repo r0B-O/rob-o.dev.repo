@@ -1,12 +1,12 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-#description: <descriptive text here>
 date: {{ .Date }}
+#description: <descriptive text here>
 draft: true
 toc: false
-image: ""
+featured_image: ""
 tags: []
 categories: []
+title: "{{ replace .Name "-" " " | title }}"
 ---
 
 # Descriptive text here...

@@ -5,7 +5,7 @@ theme = "ananke"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -28,4 +28,10 @@ enableRobotsTXT = true
 
 [[params.ananke_socials]]
 name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+url = "https://twitter.com/kiranbchand"
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/r0B-O"
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://linkedin.com/in/kiranbchand"
