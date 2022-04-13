@@ -1,6 +1,6 @@
 ---
 title: talk
-featured_image: "images/notebook.jpg"
+featured_image: "images/notebook.jpeg"
 omit_header_text: true
 description: Dev needs your comments
 type: page
