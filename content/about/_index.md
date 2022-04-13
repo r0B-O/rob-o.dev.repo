@@ -1,8 +1,8 @@
 ---
-title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: ''
+title: "whoami"
+description: "From the beginning of the universe till the time now and beyond, I am existence, and not what that exists. I am the creation and the creator. I am what is left after every bit of matter is destroyed: rob-o."
+featured_image: '/images/whoami-featured.jpeg'
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/whoami-sun.png" title="An evolved version of me and you" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+_Who am I?_ Perhaps the most perplexed question a human being could ever ask himself or anyone. Let the bits and pieces of data represented by letters, words and sentences in English alphabet be processed by your minds, to understand why I exist or what really matters for me.

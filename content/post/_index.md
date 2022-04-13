@@ -1,5 +1,6 @@
 ---
-title: "Blog"
+title: "blog"
 date: 2017-03-02T12:00:00-05:00
+featured_image: '/images/blog-featured.jpeg'
 ---
-Articles are paginated with only six posts here for example. You can set the number of entries to show on this page with the "pagination" setting in the config file.
+Mind never settles at anything. It wanders through thoughts of the future and memories from the past. To bind it to the present, a journal of some kind is the way. It tames and calms the mind by exposing its mysterious journey and acknowledging its usual eccentricity.

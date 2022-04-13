@@ -1,7 +1,7 @@
 ---
-title: "Human beings are automated machines"
-featured_image: '/images/home-bg.jpg'
-description: "An Introverted Robot, I am Not a Human"
+title: "rob-o: 'Hello, World!'"
+featured_image: '/images/home-bg.jpeg'
+description: "An Introverted Robot"
 ---
-Welcome to my blog with some of my work in progress. I plan to write about technology and my reflections on random topics that the mind jumps into.
-All what you see here now is just the default pages from the theme. It'll all be gone for good soon.
+Welcome to the blog with some of my works (always) in progress. Here you may find notes on technology and reflections on random topics that the mind jumps into.
+It can sometimes be too much insane to comprehend, but wait, that's how our minds are, aren't they?
